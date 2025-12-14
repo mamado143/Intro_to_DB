@@ -1,4 +1,4 @@
-INSERT INTO CUSTOMERS (
+INSERT INTO customer (
     customer_id,
     customer_name,
     email,
